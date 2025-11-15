@@ -1,0 +1,14 @@
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.AssemblyInfoInputs.cache
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.AssemblyInfo.cs
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.csproj.CoreCompileInputs.cache
+C:\Users\maste\source\repos\Assingment2\Assingment2\bin\Debug\net8.0\Assingment2.exe
+C:\Users\maste\source\repos\Assingment2\Assingment2\bin\Debug\net8.0\Assingment2.deps.json
+C:\Users\maste\source\repos\Assingment2\Assingment2\bin\Debug\net8.0\Assingment2.runtimeconfig.json
+C:\Users\maste\source\repos\Assingment2\Assingment2\bin\Debug\net8.0\Assingment2.dll
+C:\Users\maste\source\repos\Assingment2\Assingment2\bin\Debug\net8.0\Assingment2.pdb
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.dll
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\refint\Assingment2.dll
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.pdb
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\Assingment2.genruntimeconfig.cache
+C:\Users\maste\source\repos\Assingment2\Assingment2\obj\Debug\net8.0\ref\Assingment2.dll
