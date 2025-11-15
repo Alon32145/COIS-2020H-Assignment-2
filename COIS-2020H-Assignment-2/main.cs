@@ -133,8 +133,8 @@ class main
                     break;
 
                 case "C":
-                    // Part C code here
-                    Console.WriteLine("You selected Part C.");
+                    // Part C: Huffman code is here
+                    Console.WriteLine("You selected Part C: Huffman Code.");
                     Console.Write("Enter text to encode and decode: ");
                     string inputC = Console.ReadLine() ?? string.Empty;
 
