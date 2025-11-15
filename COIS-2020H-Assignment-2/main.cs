@@ -1,4 +1,10 @@
-﻿using System;
+﻿// Assignment 2 COIS 2020H
+// Group Members:
+// Alon Raigorodetsky ID: 0827093    Email: alonraigorodetsky@trentu.ca
+// Edidiong Jairus    ID: 0866074    Email: Edidiongjairus@trentu.ca
+// Reuben da Silva Freitas Filho ID: 0820206    Email:rdasilvafreitasfilho@trentu.ca
+
+using System;
 using COIS_2020H_Assignment_2;
 
 class main
